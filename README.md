@@ -1,7 +1,9 @@
 # Cyber Colleague
 
 致谢 https://github.com/titanwings/colleague-skill提供的skill蒸馏方案，本软件是一个独立、可视化、可自行配置api、无需额外设置更身临其境与skill数字人对话的程序。
-![Uploading image.png…]()
+
+<img width="2569" height="1389" alt="image" src="https://github.com/user-attachments/assets/8c30ddab-e547-43d5-90c9-75b69daff8a1" />
+
 
 基于 PySide6 的桌面 LLM 对话客户端：将 Cursor 风格的 **Skill** 目录（`SKILL.md`、`persona_skill.md`、`work_skill.md`、`meta.json` 等）拼入 **system** 消息，通过 OpenAI 兼容 API **流式**输出回复。默认内置同事「张静」（`skill_lib/zhang_jing/`，打包进 exe 后映射为内置 `zhang_jing`）。
 
