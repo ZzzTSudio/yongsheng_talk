@@ -62,4 +62,4 @@ pyinstaller --noconfirm cyber_colleague.spec
 - `app/skill_loader.py` — Skill 解析与同事列表
 - `app/llm_client.py` — 流式 Chat Completions
 - `app/ui/` — 主窗口、设置、流式线程
-- `skill_lib/zhang_jing/` — 默认 Skill 资源（内置张静）
+- `skill_lib/` — 默认 Skill 资源（为github上获取开源skill）
