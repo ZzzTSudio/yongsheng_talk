@@ -1,6 +1,6 @@
 # Cyber Colleague
 
-致谢 https://github.com/titanwings/colleague-skill提供的skill蒸馏方案，本软件是一个独立、可视化、可自行配置api、无需额外设置更身临其境与skill数字人对话的程序。
+致谢 https://github.com/titanwings/colleague-skill  提供的skill蒸馏方案，本软件是一个独立、可视化、可自行配置api、无需额外设置更身临其境与skill数字人对话的程序。
 
 <img width="2569" height="1389" alt="image" src="https://github.com/user-attachments/assets/8c30ddab-e547-43d5-90c9-75b69daff8a1" />
 
